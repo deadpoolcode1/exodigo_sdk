@@ -1,0 +1,11 @@
+*.xml
+*_examples
+demo_apps
+docs
+documents
+examples
+fonts
+middleware/emwin
+middleware/lvgl
+middleware/multicore/tools
+middleware/rtcesl
