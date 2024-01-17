@@ -1,0 +1,8 @@
+*.xml
+*_examples
+demo_apps
+docs
+documents
+examples
+fonts
+middleware/multicore/tools
